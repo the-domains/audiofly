@@ -1,0 +1,73 @@
+typography_spectrum: 0.4641527256462723
+color:
+  brandStrength: 0.6406397263053805
+  lightness: 0.5964401327073574
+  saturation: 0.9091507082339376
+  rhythmicContrast: 0.1236143889836967
+  brandColors:
+    - '#5C5A5D'
+    - '#7E7C7F'
+    - '#171518'
+    - '#B8B6B9'
+    - '#FCFBFC'
+layout_spectrum: 0.5930337747558951
+author:
+  name: Audiofly
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ecbcc95-3e09-4c23-bb10-207532603e5e.jpg
+name: audiofly
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: Events
+    url: 'https://www.facebook.com/pg/AudioflyOfficial/events/'
+    type: external
+  - name: Twitter
+    url: 'https://twitter.com/audioflymusic'
+    type: external
+  - name: Instagram
+    url: 'https://www.instagram.com/weareaudiofly/'
+    type: external
+  - name: Beatport
+    url: 'https://www.beatport.com/artist/audiofly/49141'
+    type: external
+title: Audiofly
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b1aed2e-8ba2-4ed1-97a6-9a8a2f1bccf8.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b1aed2e-8ba2-4ed1-97a6-9a8a2f1bccf8.jpg
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: Music is what feelings sound like.
+purpose:
+  - type: external
+    url: 'https://soundcloud.com/audiofly'
+    label: Listen on SoundCloud
+  - type: contact
+    url: 'mailto:max@alt-management.com'
+    label: Management
+github: true
